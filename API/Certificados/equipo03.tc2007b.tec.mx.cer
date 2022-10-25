@@ -1,0 +1,101 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 5 (0x5)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=ca.tc2007b.tec.mx, ST=NL, C=MX/emailAddress=juan.jose.gaytan@tec.mx, O=Tec de Monterrey, OU=TC2007B
+        Validity
+            Not Before: Sep  8 15:25:52 2022 GMT
+            Not After : Sep  8 15:25:52 2023 GMT
+        Subject: CN=equipo03.tc2007b.tec.mx, ST=NL, C=MX/emailAddress=a1235993@tec.mx, O=TC2007B, OU=Equipo 3
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:9f:bb:ce:c4:ce:39:9e:cd:47:cc:74:76:20:6a:
+                    76:0d:66:3c:7b:94:03:1f:c4:a6:21:a1:eb:3e:ed:
+                    c2:d7:51:90:a0:42:4d:3a:a4:fc:c2:cf:a5:96:18:
+                    46:84:c0:99:7e:5c:dd:43:6f:71:d4:e9:d1:9d:a0:
+                    b9:07:22:c9:b3:3f:53:f4:cb:13:3c:f8:fe:50:dd:
+                    32:26:59:56:c0:f9:94:ce:57:ce:fc:2b:8e:e9:25:
+                    2d:58:98:b6:16:96:5d:e9:af:90:8f:e7:26:1e:1f:
+                    11:ff:ca:bf:a7:c0:4e:9f:27:73:bc:e1:57:09:b0:
+                    04:30:fb:8b:c9:59:e7:d4:ae:9d:55:43:f6:89:b5:
+                    a4:1a:49:29:03:bb:c7:c1:ed:5f:ee:da:10:41:d7:
+                    a4:02:12:ad:42:1b:c6:7d:a7:0b:89:fb:2c:f6:ca:
+                    9d:1a:ba:d2:4c:25:79:6b:df:34:2a:e1:11:09:63:
+                    75:6f:c6:b2:67:da:3e:6d:2e:93:71:22:c3:c0:6a:
+                    d2:02:9c:a3:0b:24:90:e0:38:b6:17:8b:cb:dd:c3:
+                    e6:7d:21:79:8f:f0:74:61:50:b3:f8:8c:b2:e6:85:
+                    f8:62:15:0d:15:ce:6d:a5:c0:8c:1f:64:8f:5d:89:
+                    88:58:54:eb:a2:06:f2:03:c5:d6:5c:e9:d1:f3:6f:
+                    82:9f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:equipo03.tc2007b.tec.mx
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+    Signature Algorithm: sha256WithRSAEncryption
+         bf:89:f1:cc:07:e6:04:78:50:d9:8d:c4:e0:ee:cf:be:d3:d3:
+         cc:ca:7f:03:29:47:97:96:8c:42:b6:66:a7:34:e1:a0:05:b5:
+         bc:1d:87:f3:5d:0a:85:bd:0c:01:a8:15:c5:59:e2:03:d5:39:
+         f4:5e:7e:33:39:80:25:59:d9:29:b6:e7:50:73:34:55:92:06:
+         74:9f:f3:a3:15:a4:fc:8a:02:92:6f:d7:c3:26:13:54:a2:b7:
+         60:02:99:a8:5b:92:22:7d:d3:d2:b2:88:0f:56:b9:d6:6b:96:
+         90:f7:4c:6e:32:b2:86:2e:ef:d2:78:1c:cb:62:5e:f6:61:c3:
+         97:6c:e2:b6:a6:79:2b:8f:d7:43:42:53:e5:7e:be:b8:fc:93:
+         7b:c0:10:66:f4:f6:72:02:f9:ef:36:fe:70:f1:46:6c:4b:09:
+         17:49:0f:52:be:96:47:50:36:f2:a9:c9:e7:7a:ec:be:64:44:
+         84:79:97:7a:99:a1:71:2b:e4:22:78:3a:6c:97:29:c9:36:ca:
+         b9:f2:d1:68:52:72:58:b1:88:64:5c:49:26:e3:dc:bf:c6:d4:
+         a9:38:60:68:e4:a2:c1:fd:0d:d8:21:10:44:e8:1e:75:26:67:
+         45:a4:88:98:26:0a:18:c0:51:5a:cb:0e:ed:df:bc:d1:75:c7:
+         cb:5f:97:42:30:46:a5:4b:76:a3:5f:16:ca:8e:49:6f:a0:19:
+         0e:d9:7d:1f:61:9e:37:bc:31:27:b8:d8:b8:1d:a2:cb:2d:70:
+         ab:e1:ce:9d:0e:ef:65:70:ed:62:91:c1:cf:e0:18:a4:be:6f:
+         d9:d2:47:1d:d1:89:6d:7d:8f:5f:7d:44:a5:c3:57:72:67:21:
+         90:e4:05:ca:e5:11:14:d7:98:eb:49:44:2b:48:e2:e3:7b:8d:
+         90:38:ae:c0:a7:72:2d:03:0a:c3:3d:b1:d8:1e:00:c9:14:a1:
+         d9:bf:c9:8c:e5:ac:b6:96:27:02:88:8e:27:a8:10:7e:c9:7c:
+         86:01:21:c3:2e:6f:17:79:f0:f6:c5:1d:00:45:d3:92:43:15:
+         c0:8b:18:b1:10:1e:e5:b1:bc:d2:63:d4:f9:d1:58:cd:b0:8a:
+         94:6f:45:4d:9c:cf:5d:3d:2f:c5:7d:31:d9:f5:8f:98:2c:fb:
+         df:a0:c8:f1:9f:b8:b3:44:53:cf:42:6e:84:85:3c:67:c4:09:
+         c2:78:ed:41:49:9d:df:36:2c:69:17:51:33:95:b7:c4:00:6d:
+         6e:ec:64:e9:9b:c1:e6:6f:61:77:35:dd:10:2b:d8:6f:af:d5:
+         52:1c:f6:61:be:05:87:84:b2:a9:60:2b:d9:28:11:fd:54:c1:
+         fb:e6:0c:d3:39:bf:df:56
+-----BEGIN CERTIFICATE-----
+MIIE5jCCAs6gAwIBAgIBBTANBgkqhkiG9w0BAQsFADCBizEaMBgGA1UEAwwRY2Eu
+dGMyMDA3Yi50ZWMubXgxCzAJBgNVBAgMAk5MMQswCQYDVQQGEwJNWDEmMCQGCSqG
+SIb3DQEJARYXanVhbi5qb3NlLmdheXRhbkB0ZWMubXgxGTAXBgNVBAoMEFRlYyBk
+ZSBNb250ZXJyZXkxEDAOBgNVBAsMB1RDMjAwN0IwHhcNMjIwOTA4MTUyNTUyWhcN
+MjMwOTA4MTUyNTUyWjCBgTEgMB4GA1UEAwwXZXF1aXBvMDMudGMyMDA3Yi50ZWMu
+bXgxCzAJBgNVBAgMAk5MMQswCQYDVQQGEwJNWDEeMBwGCSqGSIb3DQEJARYPYTEy
+MzU5OTNAdGVjLm14MRAwDgYDVQQKDAdUQzIwMDdCMREwDwYDVQQLDAhFcXVpcG8g
+MzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ+7zsTOOZ7NR8x0diBq
+dg1mPHuUAx/EpiGh6z7twtdRkKBCTTqk/MLPpZYYRoTAmX5c3UNvcdTp0Z2guQci
+ybM/U/TLEzz4/lDdMiZZVsD5lM5XzvwrjuklLViYthaWXemvkI/nJh4fEf/Kv6fA
+Tp8nc7zhVwmwBDD7i8lZ59SunVVD9om1pBpJKQO7x8HtX+7aEEHXpAISrUIbxn2n
+C4n7LPbKnRq60kwleWvfNCrhEQljdW/GsmfaPm0uk3Eiw8Bq0gKcowskkOA4theL
+y93D5n0heY/wdGFQs/iMsuaF+GIVDRXObaXAjB9kj12JiFhU66IG8gPF1lzp0fNv
+gp8CAwEAAaNdMFswCQYDVR0TBAIwADALBgNVHQ8EBAMCBeAwIgYDVR0RBBswGYIX
+ZXF1aXBvMDMudGMyMDA3Yi50ZWMubXgwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMA0GCSqGSIb3DQEBCwUAA4ICAQC/ifHMB+YEeFDZjcTg7s++09PMyn8D
+KUeXloxCtmanNOGgBbW8HYfzXQqFvQwBqBXFWeID1Tn0Xn4zOYAlWdkptudQczRV
+kgZ0n/OjFaT8igKSb9fDJhNUordgApmoW5IifdPSsogPVrnWa5aQ90xuMrKGLu/S
+eBzLYl72YcOXbOK2pnkrj9dDQlPlfr64/JN7wBBm9PZyAvnvNv5w8UZsSwkXSQ9S
+vpZHUDbyqcnneuy+ZESEeZd6maFxK+QieDpslynJNsq58tFoUnJYsYhkXEkm49y/
+xtSpOGBo5KLB/Q3YIRBE6B51JmdFpIiYJgoYwFFayw7t37zRdcfLX5dCMEalS3aj
+XxbKjklvoBkO2X0fYZ43vDEnuNi4HaLLLXCr4c6dDu9lcO1ikcHP4Bikvm/Z0kcd
+0YltfY9ffUSlw1dyZyGQ5AXK5REU15jrSUQrSOLje42QOK7Ap3ItAwrDPbHYHgDJ
+FKHZv8mM5ay2licCiI4nqBB+yXyGASHDLm8XefD2xR0ARdOSQxXAixixEB7lsbzS
+Y9T50VjNsIqUb0VNnM9dPS/FfTHZ9Y+YLPvfoMjxn7izRFPPQm6EhTxnxAnCeO1B
+SZ3fNixpF1EzlbfEAG1u7GTpm8Hmb2F3Nd0QK9hvr9VSHPZhvgWHhLKpYCvZKBH9
+VMH75gzTOb/fVg==
+-----END CERTIFICATE-----
